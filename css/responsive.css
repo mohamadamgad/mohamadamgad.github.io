@@ -1,0 +1,134 @@
+@media only screen and (max-width: 1030px) {
+  /*.decription .name{
+    left: 50px;
+    font-size: 40px;
+    width: 50%;
+  }
+  .decription .title{
+    left: 50px;
+    font-size: 25px;
+  }
+  .decription .quote{
+    left: 50px;
+    font-size:15px;
+  }*/
+  /*.buttons li{
+    display: block;
+  }*/
+}
+@media only screen and (max-width: 531px) {
+  .decription .name{
+    top:93px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  /*.decription .name{
+    top:93px;
+  }*/
+
+  .myvision svg{
+    visibility: hidden;
+    display: none;
+  }
+  .myvision .myvision_title{
+    text-align: center;
+    left: 0px;
+    width: 78%;
+    font-size: 35px;
+  }
+  .myvision .myvision_quote{
+    left: 55px;
+    top: 165px;
+    width: 77%;
+    font-size: 18px;
+  }
+  .contact .contact_title{
+    left: 0px;
+    text-align: center;
+    width: 100%;
+  }
+  .contact .contact_p{
+    left: 0px;
+    text-align: center;
+    width: 100%;
+  }
+  .contact .contactfields{
+    left: 0px;
+    text-align: center;
+    width: 100%;
+  }
+  .contact .contactfields .submit{
+    width: 63%;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+}
+@media only screen and (max-width: 520px) {
+  /*.footer ul{
+    width: 50%;
+    left: 21%;
+    top: 77%;
+    margin: 0 auto;
+
+  }*/
+}
+
+@media only screen and (max-width: 767px) {
+    .flex-container .row12{
+      width: 75%;
+      margin: 0 auto;
+      margin-top: 30px;
+      /*margin-left: 0px;*/
+    }
+    .flex-container .row1{
+      width: 65%;
+      margin: 0 auto;
+      margin-top: 30px;
+    }
+    .flex-container .row2{
+      width: 65%;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 50px;
+    }
+    .flex-container .row22{
+      width: 75%;
+      margin: 0 auto;
+      margin-top: -30px;
+      margin-bottom: 50px;
+    }
+    .frameworks .animation-img{
+      visibility: hidden;
+      display: none;
+    }
+
+    .portfolio .row11{
+      /*width: 75%;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 40px;*/
+    }
+    .portfolio .imglink{
+      width: 75%;
+      margin: 0 auto;
+      margin-top: 30px;
+      margin-bottom: 40px;
+    }
+    .portfolio .animation-img{
+      visibility: hidden;
+      display: none;
+    }
+    .contact svg{
+      visibility: hidden;
+      display: none;
+    }
+    .decription .buttons .button-hire-me{
+      width: 35%;
+    }
+    .decription .buttons .button-portfolio{
+      width: 35%;
+    }
+
+}

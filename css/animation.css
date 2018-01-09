@@ -1,0 +1,59 @@
+.frameworks .pentagon {
+    -webkit-animation: pentagon 3s infinite;
+    animation: pentagon 3s infinite;
+}
+
+.geometric .idea {
+    -webkit-animation: idea 2s infinite;
+    animation: idea 2s infinite;
+}
+.path2 {
+  stroke-dasharray: 1120;
+  animation: draw1 4s linear forwards;
+}
+
+.portfolio .animation-img{
+  -webkit-animation: portfolio 2s infinite;
+  animation: portfolio 2s infinite;
+}
+
+
+
+@-webkit-keyframes pentagon {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(1080deg);}
+}
+
+@keyframes pentagon {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(1080deg);}
+}
+
+@keyframes idea {
+    from {transform: scale(1);}
+    to {transform: scale(1.2); }
+}
+
+@-webkit-keyframes idea {
+    from {transform: scale(1);}
+    to {transform: scale(1.2); }
+}
+@keyframes draw1 {
+  from {
+    stroke-dashoffset: 1120;
+  }
+  to {
+    stroke-dashoffset: 2240;
+  }
+}
+
+
+@keyframes portfolio {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(360deg); }
+}
+
+@-webkit-keyframes portfolio {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(360deg); }
+}
