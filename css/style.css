@@ -509,7 +509,7 @@ input::placeholder{
   margin: 0 auto;
   text-align: center;
   width:100%;
-
+  padding-left: 0px !important;
   top:75%;
 
 }
@@ -517,4 +517,7 @@ input::placeholder{
 .footer .listt li{
   display: inline-block;
   margin-left: 5px;
+}
+img{
+  object-fit:cover;
 }

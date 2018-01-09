@@ -73,6 +73,9 @@
 }
 
 @media only screen and (max-width: 767px) {
+    img{
+      object-fit:contain;
+    }
     .flex-container .row12{
       width: 95%;
       margin: 0 auto;
