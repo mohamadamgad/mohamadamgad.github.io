@@ -109,6 +109,7 @@ html{
   list-style-type: none;
   text-align: center;
   width: 100%;
+  padding-left: 0px !important;
 }
 
 .buttons .but{
@@ -284,7 +285,7 @@ html{
 }
 
 .flex-container .row1 .frameworks_list{
-  margin-left: 40px;
+  /*margin-left: 40px;*/
 }
 
 .flex-container .row1 .frameworks_list li{
