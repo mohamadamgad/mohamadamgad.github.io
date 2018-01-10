@@ -73,8 +73,11 @@
 }
 
 @media only screen and (max-width: 767px) {
-    img{
-      object-fit:contain;
+    /*img{
+      object-fit:cover;
+    }*/
+    .nav li{
+
     }
     .flex-container .row12{
       width: 95%;
@@ -89,7 +92,7 @@
     .flex-container .row2{
       width: 82%;
       margin: 0 auto;
-      margin-top: 30px;
+      margin-top: 70px;
       margin-bottom: 50px;
     }
     .flex-container .row22{

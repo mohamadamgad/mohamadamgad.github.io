@@ -11,6 +11,9 @@ html{
   margin-bottom: 0;
 
 }
+.navbar-toggle {
+  background-color: black !important;
+}
 .navbar-inverse{
   border-color: white;
 }
