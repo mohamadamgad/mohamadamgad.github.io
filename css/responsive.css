@@ -72,13 +72,17 @@
   }
 }
 
+
+
+
 @media only screen and (max-width: 767px) {
     /*img{
       object-fit:cover;
     }*/
-    .nav li{
-
+    .nav li {
+        z-index: 1;
     }
+
     .flex-container .row12{
       width: 95%;
       margin: 0 auto;
