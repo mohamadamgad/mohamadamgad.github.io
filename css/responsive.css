@@ -79,6 +79,11 @@
     /*img{
       object-fit:cover;
     }*/
+
+    .middle{
+      visibility: hidden;
+      display: none;
+    }
     .nav li {
         z-index: 1;
     }

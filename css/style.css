@@ -1,3 +1,4 @@
+* { border: 1px solid red; }
 html{
   scroll-behavior: smooth;
   /*transition: 9s;*/
@@ -86,7 +87,7 @@ html{
   top: 200px;
   /*left: 163px;*/
   text-align: center;
-  width: 100%;
+  width: 98%;
 }
 
 .decription .title{
@@ -95,7 +96,7 @@ html{
   position: absolute;
   top: 265px;
   text-align: center;
-  width: 100%;
+  width: 98%;
 }
 
 .decription .quote{
@@ -104,7 +105,7 @@ html{
   position: absolute;
   top: 335px;
   text-align: center;
-  width:100%;
+  width:98%;
   margin-right: auto;
 
 }
@@ -116,7 +117,7 @@ html{
   top: 465px;
   list-style-type: none;
   text-align: center;
-  width: 100%;
+  width: 98%;
   padding-left: 0px !important;
 }
 
