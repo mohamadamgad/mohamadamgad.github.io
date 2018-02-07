@@ -5,8 +5,8 @@ $(function(){
 		typeSpeed: 30,
 		startDelay: 1200,
 		// backspacing speed
-		backSpeed: 10,
-		backDelay: 500,
+		backSpeed: 30,
+		backDelay: 1200,
 		// loop
 		loop: true,
 		// false = infinite
