@@ -1,0 +1,16 @@
+body{
+  background-color: #444;
+}
+
+#barChart{
+  background-color: white
+    ;
+  border-radius: 6px;
+}
+
+canvas{
+  
+  width:600px !important;
+  height:600px !important;
+
+}
